@@ -1,16 +1,13 @@
-# Name of Your Project
-An introduction paragraph must contain a brief fescription of the project. If there are acronymns, create a section with a [table](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables) for this so they can be spelled out correctly.
+# Reuven Lerner Trainings
+[Reuven](https://lerner.co.il/) has shared some wonderful knowledge, both in classes I've taken with him and on his mailing list.
+
+In order ot elverage what I'm learning, I will be implementing in my own repo.
 
 ## Acronymns
 
 | Acronymn | spelled out | description as needed |
 | :---: | :--- | ---: |
 | `CC` | Content Cell | a place in the table |
-
-Your introduction should also include:
-- 1-1 sentences describing the problem to solve
-- audience / end user the solution is for
-- how to run
 
 ## Requirements
 
